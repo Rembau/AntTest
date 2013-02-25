@@ -1,0 +1,7 @@
+Testsuite: example.HelloTest
+Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 0 sec
+------------- Standard Output ---------------
+good
+------------- ---------------- ---------------
+
+Testcase: testAdd took 0 sec
